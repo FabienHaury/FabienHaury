@@ -1,7 +1,7 @@
 ! WIP !
 
 # Hello, je suis Fabien Haury.
-## Data Analyst – Passionné par la donnée et l'apprentissage continu
+## Data Analyst – Passionné par la donnée.
 
 Bienvenue sur mon GitHub. 
 
