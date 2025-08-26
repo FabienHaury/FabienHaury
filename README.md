@@ -25,10 +25,14 @@ Bienvenue sur mon GitHub.
 - Unité 6 - Introduction a l’apprentissage machine
 - Unité 7 - Introduction `a la Business Intelligence
 
+---
+
+## [Tidythuesday](https://github.com/rfordatascience/tidytuesday)
+TidyTuesday est un projet hebdomadaire qui propose chaque mardi un jeu de données réel à analyser. L'objectif est d'encourager la communauté des data scientists à améliorer leurs compétences en manipulation, exploration et visualisation de données, tout en partageant leurs travaux et codes sur les réseaux sociaux avec le hashtag #TidyTuesday.
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 - [email](mailto:67912775+FabienHaury@users.noreply.github.com)
 
 
