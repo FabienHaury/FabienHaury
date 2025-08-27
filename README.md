@@ -11,7 +11,7 @@ Bienvenue sur mon GitHub.
 
 - **Langages :** Python (Pandas, NumPy), SQL, R, LaTeX
 - **Data Visualisation :** Power BI, Looker Studio, Matplotlib, Seaborn, GGPlot2  
-- **Outils :** Jupyter, Git/GitHub, RStudio 
+- **Outils :** Jupyter, Git/GitHub, RStudio, DataPrep by Trifacta
 
 ---
 
