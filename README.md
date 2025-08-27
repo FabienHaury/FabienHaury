@@ -18,12 +18,12 @@ Bienvenue sur mon GitHub.
 ## Projet de formation Diplôme Universitaire Data Analyst
 
 - Unité 1 - [Manipulation et prétraitement de données](https://github.com/FabienHaury/DU-Unit-1-Manipulation-et-pr-traitement-de-donnes/tree/main)
-- Unité 2 - Techniques de visualisation de données
-- Unité 3 - Introduction aux statistiques
-- Unité 4 - Rédaction d’un rapport d’analyse
-- Unité 5 - Réduction de dimensionnalité et techniques de clustering
-- Unité 6 - Introduction a l’apprentissage machine
-- Unité 7 - Introduction `a la Business Intelligence
+- Unité 2 - [Techniques de visualisation de données](https://github.com/FabienHaury/DU-Unit2-Techniques-de-visualisation-de-donnees)
+- Unité 3 - [Introduction aux statistiques](https://github.com/FabienHaury/DU-Unit3-Introduction-aux-statistiques)
+- Unité 4 - [Rédaction d’un rapport d’analyse](https://github.com/FabienHaury/DU-Unit4-Redaction-d-un-rapport-d-analyse)
+- Unité 5 - [Réduction de dimensionnalité et techniques de clustering](https://github.com/FabienHaury/DU-Unit5-Reduction-de-dimensionnalite-et-techniques-de-clustering)
+- Unité 6 - [Introduction à l’apprentissage machine](https://github.com/FabienHaury/DU-Unit6-Introduction-a-l-apprentissage-machine)
+- Unité 7 - [Examen](https://github.com/FabienHaury/DU-Examen)
 
 ---
 
