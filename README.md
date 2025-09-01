@@ -27,8 +27,8 @@ Bienvenue sur mon GitHub.
 
 ---
 
-## [Tidythuesday](https://github.com/rfordatascience/tidytuesday)
-TidyTuesday est un projet hebdomadaire qui propose chaque mardi un jeu de données réel à analyser. L'objectif est d'encourager la communauté des data scientists à améliorer leurs compétences en manipulation, exploration et visualisation de données, tout en partageant leurs travaux et codes sur les réseaux sociaux avec le hashtag #TidyTuesday.
+## [Tidythuesday](https://github.com/FabienHaury/TidyTuesday)
+[Tidythuesday](https://github.com/rfordatascience/tidytuesday) est un projet hebdomadaire qui propose chaque mardi un jeu de données réel à analyser. L'objectif est d'encourager la communauté des data scientists à améliorer leurs compétences en manipulation, exploration et visualisation de données, tout en partageant leurs travaux et codes sur les réseaux sociaux avec le hashtag #TidyTuesday.
 
 ---
 
