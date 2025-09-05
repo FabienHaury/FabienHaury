@@ -11,7 +11,7 @@ Bienvenue sur mon GitHub.
 
 - **Langages :** Python (Pandas, NumPy), SQL, R, LaTeX
 - **Data Visualisation :** Power BI, Looker Studio, Matplotlib, Seaborn, GGPlot2  
-- **Outils :** Jupyter, Git/GitHub, RStudio, DataPrep by Trifacta
+- **Outils :** Jupyter, Git/GitHub, RStudio, DataPrep by Trifacta, Excel
 
 ---
 
@@ -22,14 +22,15 @@ Bienvenue sur mon GitHub.
   - **Pitch projet :**
       J'ai mené une analyse sur les performances de plusieurs campagnes emailing (ouverture, clics, conversions) en utilisant Python et Power Bi, afin de montrer que je peux identifier les meilleures fenêtres de tir pour maximiser l'impact marketing.
 
-
 ---
 
 ## Tidythuesday
 [Tidythuesday](https://github.com/rfordatascience/tidytuesday) est un projet hebdomadaire qui propose chaque mardi un jeu de données réel à analyser. L'objectif est d'encourager la communauté des data scientists à améliorer leurs compétences en manipulation, exploration et visualisation de données, tout en partageant leurs travaux et codes sur les réseaux sociaux avec le hashtag #TidyTuesday.
 
----
+- 2025
+  -	[Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Billboard%20Hot%20100%20Number%20Ones/Plots)
 
+---
 
 ## Projet de formation Diplôme Universitaire Data Analyst
 
