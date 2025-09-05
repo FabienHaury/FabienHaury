@@ -7,7 +7,7 @@ Bienvenue sur mon GitHub.
 
 ---
 
-##  Compétences clés.
+##  Compétences clés
 
 - **Langages :** Python (Pandas, NumPy), SQL, R, LaTeX
 - **Data Visualisation :** Power BI, Looker Studio, Matplotlib, Seaborn, GGPlot2  
@@ -25,13 +25,13 @@ Bienvenue sur mon GitHub.
 
 ---
 
-## Tidythuesday.
+## Tidythuesday
 [Tidythuesday](https://github.com/rfordatascience/tidytuesday) est un projet hebdomadaire qui propose chaque mardi un jeu de données réel à analyser. L'objectif est d'encourager la communauté des data scientists à améliorer leurs compétences en manipulation, exploration et visualisation de données, tout en partageant leurs travaux et codes sur les réseaux sociaux avec le hashtag #TidyTuesday.
 
 ---
 
 
-## Projet de formation Diplôme Universitaire Data Analyst.
+## Projet de formation Diplôme Universitaire Data Analyst
 
 - Unité 1 - [Manipulation et prétraitement de données](https://github.com/FabienHaury/DU-Unit-1-Manipulation-et-pr-traitement-de-donnes/tree/main)
 - Unité 2 - [Techniques de visualisation de données](https://github.com/FabienHaury/DU-Unit2-Techniques-de-visualisation-de-donnees)
