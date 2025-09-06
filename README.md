@@ -28,7 +28,7 @@ Bienvenue sur mon GitHub.
 [Tidythuesday](https://github.com/rfordatascience/tidytuesday) est un projet hebdomadaire qui propose chaque mardi un jeu de données réel à analyser. L'objectif est d'encourager la communauté des data scientists à améliorer leurs compétences en manipulation, exploration et visualisation de données, tout en partageant leurs travaux et codes sur les réseaux sociaux avec le hashtag #TidyTuesday.
 
 - 2025
-  -	[Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Billboard%20Hot%20100%20Number%20Ones/Plots)
+  -	[Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Billboard%20Hot%20100%20Number%20Ones)
 
 ---
 
