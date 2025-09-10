@@ -25,7 +25,8 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 Mon objectif : pratiquer la manipulation, l’exploration et la visualisation de données tout en partageant mes analyses.  
 
 - [2025](https://github.com/FabienHaury/TidyTuesday/tree/main/2025)  
-  - [Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Billboard%20Hot%20100%20Number%20Ones)  
+  - [Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Billboard%20Hot%20100%20Number%20Ones)
+  - [Australian frogs](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Australian%20Frogs)
 
 ---
 
