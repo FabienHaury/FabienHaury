@@ -42,4 +42,4 @@ Mon objectif : pratiquer la manipulation, l’exploration et la visualisation de
 
 ## Me contacter
 - 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/fabienhaury/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabienhaury/)
