@@ -15,8 +15,12 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 
 ## Projets phares
 - [Analyser l’efficacité des campagnes d’emailing](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing)  
-  - **Domaine :** Marketing digital / emailing  
-  - **Résumé :** Analyse de performances (ouverture, clics, conversions) via Python et Power BI pour identifier les meilleures fenêtres d’envoi et maximiser l’impact marketing.  
+  - **Domaine :** Marketing digital / emailing.    
+  - **Résumé :** Analyse de performances (ouverture, clics, conversions) via Python et Power BI pour identifier les meilleures fenêtres d’envoi et maximiser l’impact marketing.
+
+- [Comprendre le comportement d’achat, produits phares, fréquence d’achat dans l’e-commerce](https://github.com/FabienHaury/Comprendre-comportement-d-achat-produits-phares-frequence-d-achat-dans-l-e-commerce/tree/main)
+  - **Domaine :** E‑commerce / ventes produits.   
+  - **Résumé :** Dashboard des principaux KPI d'e-commerce, suivi des catégories de produits.
 
 ---
 
