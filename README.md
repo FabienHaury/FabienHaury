@@ -27,6 +27,7 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 ## Participation à Tidytuesday
 [Tidytuesday](https://github.com/rfordatascience/tidytuesday) est un projet collaboratif où chaque semaine, un nouveau jeu de données est proposé à la communauté.  
 Mon objectif : pratiquer la manipulation, l’exploration et la visualisation de données tout en partageant mes analyses.  
+NB : La publication des résultats étant encouragé, tous les rapports sont rédigés en anglais.
 
 - [2025](https://github.com/FabienHaury/TidyTuesday/tree/main/2025)  
   - [Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Billboard%20Hot%20100%20Number%20Ones)
