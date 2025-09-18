@@ -32,6 +32,7 @@ NB : La publication des résultats étant encouragé, tous les rapports sont ré
 - [2025](https://github.com/FabienHaury/TidyTuesday/tree/main/2025)  
   - [Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Billboard%20Hot%20100%20Number%20Ones)
   - [Australian frogs](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/Australian%20Frogs)
+  - [What have we been watching on Netflix?](https://github.com/FabienHaury/TidyTuesday/tree/main/2025/What%20have%20we%20been%20watching%20on%20Netflix%3F)
 
 ---
 
