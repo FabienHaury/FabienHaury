@@ -20,7 +20,11 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 
 - [Comprendre le comportement d’achat, produits phares, fréquence d’achat dans l’e-commerce](https://github.com/FabienHaury/Comprendre-comportement-d-achat-produits-phares-frequence-d-achat-dans-l-e-commerce/tree/main)
   - **Domaine :** E‑commerce / ventes produits.   
-  - **Résumé :** Dashboard des principaux KPI d'e-commerce, suivi des catégories de produits.
+  - **Résumé :** Ce projet propose un tableau de bord dédié au suivi des KPI d'e-commerce (Nb de clients, Panier moeyn, etc), suivi des catégories de produits.
+ 
+- [Dashboard Publicité Digitale – Suivi & Optimisation des Ads](https://github.com/FabienHaury/Indicateurs-cles-de-performance-et-metriques-de-publicit-digitale-Suivi-et-Performance)
+  - **Domaine :** Marketing digital, publicité digitale.  
+  - **Résumé :** Ce projet propose un tableau de bord dédié au suivi et à l’optimisation des principales campagnes publicitaires digitales, regroupant les KPIs essentiels (ROI, CPC, CPL, taux d’engagement, etc.).
 
 ---
 
