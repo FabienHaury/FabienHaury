@@ -6,14 +6,14 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 
 ---
 
-## Compétences clés
+## Compétences clés 💡
 - **Langages :** Python (Pandas, NumPy), SQL, R, LaTeX  
 - **Visualisation :** Power BI, Looker Studio, Matplotlib, Seaborn, GGPlot2  
 - **Outils :** Jupyter, Git/GitHub, RStudio, DataPrep by Trifacta, Excel  
 
 ---
 
-## Projets phares
+## Projets phares 🚀
 - [Analyser l’efficacité des campagnes d’emailing](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing)  
   - **Domaine :** Marketing digital / emailing.    
   - **Résumé :** Analyse de performances (ouverture, clics, conversions) via Python et Power BI pour identifier les meilleures fenêtres d’envoi et maximiser l’impact marketing.
@@ -32,7 +32,7 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 
 ---
 
-## Participation à Tidytuesday
+## Participation à Tidytuesday 🤝
 [Tidytuesday](https://github.com/rfordatascience/tidytuesday) est un projet collaboratif où chaque semaine, un nouveau jeu de données est proposé à la communauté.  
 Mon objectif : pratiquer la manipulation, l’exploration et la visualisation de données tout en partageant mes analyses.  
 NB : La publication des résultats étant encouragé, tous les rapports sont rédigés en anglais.
@@ -44,7 +44,7 @@ NB : La publication des résultats étant encouragé, tous les rapports sont ré
 
 ---
 
-## Projet de formation – Diplôme Universitaire Data Analyst
+## Projet de formation – Diplôme Universitaire Data Analyst 🎓
 - [Unité 1 – Manipulation et prétraitement de données](https://github.com/FabienHaury/DU-Unit-1-Manipulation-et-pr-traitement-de-donnes/tree/main)  
 - [Unité 2 – Techniques de visualisation de données](https://github.com/FabienHaury/DU-Unit2-Techniques-de-visualisation-de-donnees)  
 - [Unité 3 – Introduction aux statistiques](https://github.com/FabienHaury/DU-Unit3-Introduction-aux-statistiques)  
@@ -55,6 +55,6 @@ NB : La publication des résultats étant encouragé, tous les rapports sont ré
 
 ---
 
-## Me contacter
+## Me contacter 📬
 - 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabienhaury/)
