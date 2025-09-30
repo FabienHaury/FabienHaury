@@ -23,8 +23,12 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
   - **Résumé :** Ce projet propose un tableau de bord dédié au suivi des KPI d'e-commerce (Nb de clients, Panier moeyn, etc), suivi des catégories de produits.
  
 - [Dashboard Publicité Digitale – Suivi & Optimisation des Ads](https://github.com/FabienHaury/Indicateurs-cles-de-performance-et-metriques-de-publicit-digitale-Suivi-et-Performance)
-  - **Domaine :** Marketing digital, publicité digitale.  
+  - **Domaine :** Marketing digital / publicité digitale.  
   - **Résumé :** Ce projet propose un tableau de bord dédié au suivi et à l’optimisation des principales campagnes publicitaires digitales, regroupant les KPIs essentiels (ROI, CPC, CPL, taux d’engagement, etc.).
+ 
+- [Life Time Value](https://github.com/FabienHaury/LTV)
+  - **Domaine :** Marketing / e‑commerce
+  - **Résumé :** Ce projet propose de calculer une LTV.
 
 ---
 
