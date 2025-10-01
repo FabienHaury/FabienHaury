@@ -28,7 +28,7 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
  
 - [Life Time Value](https://github.com/FabienHaury/LTV)
   - **Domaine :** Marketing / e‑commerce
-  - **Résumé :** Ce projet propose de calculer une LTV.
+  - **Résumé :** Ce projet modélise la Customer Lifetime Value (LTV) à partir de données e-commerce, révélant une rétention client stable à 80% et une valeur moyenne de 78€ sur 5 ans. Une analyse clé pour optimiser les stratégies de fidélisation et maximiser la rentabilité des clients.
 
 ---
 
