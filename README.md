@@ -13,22 +13,82 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 
 ---
 
-## Projets phares 🚀
-- [Analyser l’efficacité des campagnes d’emailing](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing)  
-  - **Domaine :** Marketing digital / emailing.    
-  - **Résumé :** Analyse de performances (ouverture, clics, conversions) via Python et Power BI pour identifier les meilleures fenêtres d’envoi et maximiser l’impact marketing.
 
-- [Comprendre le comportement d’achat, produits phares, fréquence d’achat dans l’e-commerce](https://github.com/FabienHaury/Comprendre-comportement-d-achat-produits-phares-frequence-d-achat-dans-l-e-commerce/tree/main)
-  - **Domaine :** E‑commerce / ventes produits.   
-  - **Résumé :** Ce projet propose un tableau de bord dédié au suivi des KPI d'e-commerce (Nb de clients, Panier moeyn, etc), suivi des catégories de produits.
- 
-- [Dashboard Publicité Digitale – Suivi & Optimisation des Ads](https://github.com/FabienHaury/Indicateurs-cles-de-performance-et-metriques-de-publicit-digitale-Suivi-et-Performance)
-  - **Domaine :** Marketing digital / publicité digitale.  
-  - **Résumé :** Ce projet propose un tableau de bord dédié au suivi et à l’optimisation des principales campagnes publicitaires digitales, regroupant les KPIs essentiels (ROI, CPC, CPL, taux d’engagement, etc.).
- 
-- [Life Time Value](https://github.com/FabienHaury/LTV)
-  - **Domaine :** Marketing / e‑commerce
-  - **Résumé :** Ce projet modélise la Customer Lifetime Value (LTV) à partir de données e-commerce, révélant une rétention client stable à 80% et une valeur moyenne de 78€ sur 5 ans. Une analyse clé pour optimiser les stratégies de fidélisation et maximiser la rentabilité des clients.
+## Projets phares 🚀
+
+## 📊 **Analyser l’efficacité des campagnes d’emailing**
+**Domaine :** Marketing digital / Emailing   
+**Outils :** Python, Power BI
+
+### Résumé
+Ce projet vise à analyser les performances des campagnes d’emailing en évaluant des métriques clés comme les taux d’ouverture, de clics et de conversions. Grâce à des visualisations interactives dans Power BI et des scripts Python, j’ai identifié les meilleures fenêtres d’envoi pour maximiser l’impact marketing.
+
+### Points clés
+- **Analyse des performances** : Taux d’ouverture, clics, conversions.
+- **Optimisation des horaires** : Identification des créneaux horaires les plus efficaces.
+- **Visualisation** : Tableaux de bord interactifs pour un suivi en temps réel.
+
+🔗 [Voir le projet](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing)
+
+
+## 🛒 **Comprendre le comportement d’achat dans l’e-commerce**
+**Domaine :** E-commerce / Ventes produits    
+**Outils :** SQL, Power BI
+
+### Résumé
+Ce projet propose un tableau de bord dédié au suivi des KPIs e-commerce, comme le nombre de clients, le panier moyen, et les catégories de produits les plus performantes. L’objectif est de comprendre les tendances d’achat et d’optimiser les stratégies commerciales.
+
+### Points clés
+- **KPIs suivis** : Nombre de clients, panier moyen, fréquence d’achat.
+- **Analyse des catégories** : Identification des produits phares.
+- **Visualisation** : Tableaux de bord dynamiques pour une prise de décision rapide.
+
+🔗 [Voir le projet](https://github.com/FabienHaury/Comprendre-comportement-d-achat-produits-phares-frequence-d-achat-dans-l-e-commerce)
+
+
+## 📈 **Dashboard Publicité Digitale – Suivi & Optimisation des Ads**
+**Domaine :** Marketing digital / Publicité digitale    
+**Outils :** Looker Studio
+
+### Résumé
+Ce projet propose un tableau de bord complet pour suivre et optimiser les campagnes publicitaires digitales. Il regroupe des KPIs essentiels comme le ROI, le CPC, le CPL, et le taux d’engagement, permettant une analyse approfondie des performances.
+
+### Points clés
+- **KPIs clés** : ROI, CPC, CPL, taux d’engagement.
+- **Optimisation** : Identification des campagnes les plus rentables.
+- **Visualisation** : Tableaux de bord interactifs pour un suivi en temps réel.
+
+🔗 [Voir le projet](https://github.com/FabienHaury/Indicateurs-cles-de-performance-et-metriques-de-publicit-digitale-Suivi-et-Performance)
+
+
+## 💰 **Customer Lifetime Value (LTV)**
+**Domaine :** Marketing / E-commerce    
+**Outils :** Excel
+
+### Résumé
+Ce projet modélise la **Customer Lifetime Value (LTV)** à partir de données e-commerce. Les résultats révèlent une rétention client stable à 80 % et une valeur moyenne de 78 € sur 5 ans, ce qui est crucial pour optimiser les stratégies de fidélisation et maximiser la rentabilité.
+
+### Points clés
+- **Rétention client** : 80 % sur 5 ans.
+- **Valeur moyenne** : 78 € par client.
+- **Optimisation** : Stratégies pour augmenter la fidélisation et la rentabilité.
+
+🔗 [Voir le projet](https://github.com/FabienHaury/LTV)
+
+
+## 🏦 **Analyse du Churn Bancaire**
+**Domaine :** Banque / Churn    
+**Outils :** Python
+
+### Résumé
+Ce projet propose une analyse exploratoire des données bancaires pour identifier les tendances indiquant un **churn** (départ des clients). L’objectif est de détecter les signaux précoces et de mettre en place des actions préventives pour réduire l’attrition.
+
+### Points clés
+- **Analyse des tendances** : Identification des facteurs de churn.
+- **Prévention** : Actions pour réduire le départ des clients.
+- **Visualisation** : Graphiques et tableaux pour une analyse claire.
+
+🔗 [Voir le projet](https://github.com/FabienHaury/Churn)
 
 ---
 
