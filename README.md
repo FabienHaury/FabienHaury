@@ -118,3 +118,4 @@ NB : La publication des résultats étant encouragé, tous les rapports sont ré
 ## Me contacter 📬
 - 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabienhaury/)
+- 📄 [Mon CV](https://github.com/FabienHaury/CV-Resume/blob/main/CV_Haury_Fabien.pdf)
