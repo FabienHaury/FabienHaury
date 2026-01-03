@@ -1,3 +1,19 @@
+## Sommaire
+
+- [Introduction](#bonjour-je-suis-fabien-haury-)
+- [Compétences clés 💡](#compétences-clés-)
+- [Projets phares 🚀](#projets-phares-)
+  - [Analyser l’efficacité des campagnes d’emailing](#-analyser-lefficacité-des-campagnes-demailing)
+  - [Comprendre le comportement d’achat dans l’e-commerce](#-comprendre-le-comportement-dachat-dans-le-e-commerce)
+  - [Dashboard Publicité Digitale – Suivi & Optimisation des Ads](#-dashboard-publicité-digitale--suivi--optimisation-des-ads)
+  - [Customer Lifetime Value (LTV)](#-customer-lifetime-value-ltv)
+  - [Analyse du Churn Bancaire](#-analyse-du-churn-bancaire)
+- [Participation à Tidytuesday 🤝](#participation-à-tidytuesday-)
+- [Projet de formation – Diplôme Universitaire Data Analyst 🎓](#projet-de-formation--diplôme-universitaire-data-analyst-)
+- [Me contacter 📬](#me-contacter-)
+
+---
+
 # Bonjour, je suis Fabien Haury 👋
 ## Data Analyst – Passionné par la donnée
 
@@ -31,7 +47,7 @@ Ce projet vise à analyser les performances des campagnes d’emailing en évalu
 🔗 [Voir le projet](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing)
 
 
-## 🛒 **Comprendre le comportement d’achat dans l’e-commerce**
+## 🛒 **comprendre le comportement dachat dans le e commerce**
 **Domaine :** E-commerce / Ventes produits    
 **Outils :** SQL, Power BI
 
