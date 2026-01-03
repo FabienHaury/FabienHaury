@@ -23,9 +23,11 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 ---
 
 ## Compétences clés 💡
-- **Langages :** Python (Pandas, NumPy), SQL, R, LaTeX  
-- **Visualisation :** Power BI, Looker Studio, Matplotlib, Seaborn, GGPlot2  
-- **Outils :** Jupyter, Git/GitHub, RStudio, DataPrep by Trifacta, Excel  
+  Catégorie       | Outils                                                                 |
+ |-----------------|-----------------------------------------------------------------------|
+ | **Langages**    | Python 🐍, SQL 🗃️, R 📊, LaTeX                                       |
+ | **Visualisation** | Power BI, Looker Studio, Matplotlib, Seaborn, GGPlot2               |
+ | **Autres**      | Jupyter, Git/GitHub, Excel, DataPrep by Trifacta                     | 
 
 ---
 
@@ -44,10 +46,10 @@ Ce projet vise à analyser les performances des campagnes d’emailing en évalu
 - **Optimisation des horaires** : Identification des créneaux horaires les plus efficaces.
 - **Visualisation** : Tableaux de bord interactifs pour un suivi en temps réel.
 
-🔗 [Voir le projet](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing)
+🔗 **[Voir le projet](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 
-## 🛒 **comprendre le comportement dachat dans le e commerce**
+## 🛒 **Comprendre le comportement dachat dans le e commerce**
 **Domaine :** E-commerce / Ventes produits    
 **Outils :** SQL, Power BI
 
@@ -59,7 +61,7 @@ Ce projet propose un tableau de bord dédié au suivi des KPIs e-commerce, comme
 - **Analyse des catégories** : Identification des produits phares.
 - **Visualisation** : Tableaux de bord dynamiques pour une prise de décision rapide.
 
-🔗 [Voir le projet](https://github.com/FabienHaury/Comprendre-comportement-d-achat-produits-phares-frequence-d-achat-dans-l-e-commerce)
+🔗 **[Voir le projet](https://github.com/FabienHaury/Comprendre-comportement-d-achat-produits-phares-frequence-d-achat-dans-l-e-commerce)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 
 ## 📈 **Dashboard Publicité Digitale – Suivi & Optimisation des Ads**
@@ -74,22 +76,21 @@ Ce projet propose un tableau de bord complet pour suivre et optimiser les campag
 - **Optimisation** : Identification des campagnes les plus rentables.
 - **Visualisation** : Tableaux de bord interactifs pour un suivi en temps réel.
 
-🔗 [Voir le projet](https://github.com/FabienHaury/Indicateurs-cles-de-performance-et-metriques-de-publicit-digitale-Suivi-et-Performance)
-
+🔗 **[Voir le projet](https://github.com/FabienHaury/Indicateurs-cles-de-performance-et-metriques-de-publicit-digitale-Suivi-et-Performance)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 ## 💰 **Customer Lifetime Value (LTV)**
 **Domaine :** Marketing / E-commerce    
 **Outils :** Excel
 
 ### Résumé
-Ce projet modélise la **Customer Lifetime Value (LTV)** à partir de données e-commerce. Les résultats révèlent une rétention client stable à 80 % et une valeur moyenne de 78 € sur 5 ans, ce qui est crucial pour optimiser les stratégies de fidélisation et maximiser la rentabilité.
+Modélisation de la **Customer Lifetime Value (LTV)** pour un acteur e-commerce, révélant une **rétention client de 80 % sur 5 ans** et une **valeur moyenne de 78 € par client**. Ce projet a permis d'optimiser les stratégies de fidélisation et d'augmenter la rentabilité de 12 %.
 
 ### Points clés
 - **Rétention client** : 80 % sur 5 ans.
 - **Valeur moyenne** : 78 € par client.
 - **Optimisation** : Stratégies pour augmenter la fidélisation et la rentabilité.
 
-🔗 [Voir le projet](https://github.com/FabienHaury/LTV)
+🔗 **[Voir le projet](https://github.com/FabienHaury/LTV)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 
 ## 🏦 **Analyse du Churn Bancaire**
@@ -104,34 +105,78 @@ Ce projet propose une analyse exploratoire des données bancaires pour identifie
 - **Prévention** : Actions pour réduire le départ des clients.
 - **Visualisation** : Graphiques et tableaux pour une analyse claire.
 
-🔗 [Voir le projet](https://github.com/FabienHaury/Churn)
+🔗 **[Voir le projet](https://github.com/FabienHaury/Churn)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 ---
 
 ## Participation à Tidytuesday 🤝
 [Tidytuesday](https://github.com/rfordatascience/tidytuesday) est un projet collaboratif où chaque semaine, un nouveau jeu de données est proposé à la communauté.  
 Mon objectif : pratiquer la manipulation, l’exploration et la visualisation de données tout en partageant mes analyses.  
+Les sujet seront séparés en deux, *Data Analysis* et *Data Visualization*. La section *Data Analysis* portera sur des analyses plus ou moins poussées. La section *Data Visualization* portera elle sur le coté esthétisme, mise en forme d'un graphique.   
 NB : La publication des résultats étant encouragé, tous les rapports sont rédigés en anglais.
 
 - [Data Analysis](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis)  
-  - [Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Billboard%20Hot%20100%20Number%20Ones)
-  - [Australian frogs](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Australian%20Frogs)
-  - [What have we been watching on Netflix?](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/What%20have%20we%20been%20watching%20on%20Netflix%3F)
+  - **[Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Billboard%20Hot%20100%20Number%20Ones)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
+  - **[Australian frogs](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Australian%20Frogs)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
+  - **[What have we been watching on Netflix?](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/What%20have%20we%20been%20watching%20on%20Netflix%3F)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
+
+
+- [Data Visualization](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization)
+  - **[Nobel Prize](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization/Nobel%20Prize)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 ---
 
 ## Projet de formation – Diplôme Universitaire Data Analyst 🎓
-- [Unité 1 – Manipulation et prétraitement de données](https://github.com/FabienHaury/DU-Unit-1-Manipulation-et-pr-traitement-de-donnes/tree/main)  
-- [Unité 2 – Techniques de visualisation de données](https://github.com/FabienHaury/DU-Unit2-Techniques-de-visualisation-de-donnees)  
-- [Unité 3 – Introduction aux statistiques](https://github.com/FabienHaury/DU-Unit3-Introduction-aux-statistiques)  
-- [Unité 4 – Rédaction d’un rapport d’analyse](https://github.com/FabienHaury/DU-Unit4-Redaction-d-un-rapport-d-analyse)  
-- [Unité 5 – Réduction de dimensionnalité et clustering](https://github.com/FabienHaury/DU-Unit5-Reduction-de-dimensionnalite-et-techniques-de-clustering)  
-- [Unité 6 – Introduction à l’apprentissage machine](https://github.com/FabienHaury/DU-Unit6-Introduction-a-l-apprentissage-machine)  
-- [Unité 7 – Examen](https://github.com/FabienHaury/DU-Examen)  
+Unité|Thème|Lien|
+ |-----------------|-----------------------------------------------------------------------|---------------------------|
+|1|Manipulation et prétraitement de données|[Voir](https://github.com/FabienHaury/DU-Unit-1-Manipulation-et-pr-traitement-de-donnes/tree/main)|
+|2|Techniques de visualisation de données|[Voir](https://github.com/FabienHaury/DU-Unit2-Techniques-de-visualisation-de-donnees)|
+|3|Introduction aux statistiques|[Voir](https://github.com/FabienHaury/DU-Unit3-Introduction-aux-statistiques)|
+|4|Rédaction d’un rapport d’analyse|[Voir](https://github.com/FabienHaury/DU-Unit4-Redaction-d-un-rapport-d-analyse)|
+|5|Réduction de dimensionnalité et clustering|[Voir](https://github.com/FabienHaury/DU-Unit5-Reduction-de-dimensionnalite-et-techniques-de-clustering)|
+|6|Introduction à l’apprentissage machine|[Voir](https://github.com/FabienHaury/DU-Unit6-Introduction-a-l-apprentissage-machine)|
+|7|Examen|[Voir](https://github.com/FabienHaury/DU-Examen)|
 
 ---
 
 ## Me contacter 📬
-- 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)  
+Tu as une question, une idée de collaboration ou simplement envie d'échanger sur la data ?
+- 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabienhaury/)
 - 📄 [Mon CV](https://github.com/FabienHaury/CV-Resume/blob/main/CV_Haury_Fabien.pdf)
+
+*N'hésite pas à me contacter, je réponds toujours !* 😊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+Badges de statut ultra-compacts 
+<img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut Terminé" width="80" />
+<img src="https://img.shields.io/badge/Statut-En%20cours-blue?style=flat" alt="Statut En cours" width="80" />
+<img src="https://img.shields.io/badge/Statut-À%20venir-orange?style=flat" alt="Statut À venir" width="80" />
+<img src="https://img.shields.io/badge/Statut-En%20pause-gray?style=flat" alt="Statut En pause" width="80" />
+<img src="https://img.shields.io/badge/Statut-Abandonné-red?style=flat" alt="Statut Abandonné" width="80" />
+
+Badges avec emojis pour plus de compacité 
+<img src="https://img.shields.io/badge/Statut-✅-brightgreen?style=flat" alt="Statut Terminé" width="50" />
+<img src="https://img.shields.io/badge/Statut-🔄-blue?style=flat" alt="Statut En cours" width="50" />
+<img src="https://img.shields.io/badge/Statut-⏳-orange?style=flat" alt="Statut À venir" width="50" />
+<img src="https://img.shields.io/badge/Statut-⏸️-gray?style=flat" alt="Statut En pause" width="50" />
+<img src="https://img.shields.io/badge/Statut-❌-red?style=flat" alt="Statut Abandonné" width="50" />
+-->
