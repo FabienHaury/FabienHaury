@@ -9,6 +9,8 @@
   - [Customer Lifetime Value (LTV)](#-customer-lifetime-value-ltv)
   - [Analyse du Churn Bancaire](#-analyse-du-churn-bancaire)
 - [Participation à Tidytuesday 🤝](#participation-à-tidytuesday-)
+  - [Data Analysis](#data-analysis)
+  - [Data Visualization](#data-visualization)
 - [Projet de formation – Diplôme Universitaire Data Analyst 🎓](#projet-de-formation--diplôme-universitaire-data-analyst-)
 - [Me contacter 📬](#me-contacter-)
 
@@ -115,13 +117,13 @@ Mon objectif : pratiquer la manipulation, l’exploration et la visualisation de
 Les sujet seront séparés en deux, *Data Analysis* et *Data Visualization*. La section *Data Analysis* portera sur des analyses plus ou moins poussées. La section *Data Visualization* portera elle sur le coté esthétisme, mise en forme d'un graphique.   
 NB : La publication des résultats étant encouragé, tous les rapports sont rédigés en anglais.
 
-- [Data Analysis](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis)  
+### [Data Analysis](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis)
   - **[Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Billboard%20Hot%20100%20Number%20Ones)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
   - **[Australian frogs](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Australian%20Frogs)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
   - **[What have we been watching on Netflix?](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/What%20have%20we%20been%20watching%20on%20Netflix%3F)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 
-- [Data Visualization](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization)
+### [Data Visualization](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization)
   - **[Nobel Prize](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization/Nobel%20Prize)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
   - **[European energy](https://github.com/FabienHaury/TidyTuesday/blob/main/Data%20visualization/European%20energy/README.md)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
