@@ -125,7 +125,8 @@ NB : La publication des résultats étant encouragé, tous les rapports sont ré
 
 ### [Data Visualization](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization)
   - **[Nobel Prize](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization/Nobel%20Prize)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
-  - **[European energy](https://github.com/FabienHaury/TidyTuesday/blob/main/Data%20visualization/European%20energy/README.md)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
+  - **[European energy](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization/European%20energy)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
+  - **[Agricultural Production Statistics in New Zealand](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization/Agricultural%20Production%20Statistics%20in%20New%20Zealand)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 ---
 
