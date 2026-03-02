@@ -170,6 +170,7 @@ Tu as une question, une idée de collaboration ou simplement envie d'échanger s
 
 
 <!--
+Version fr
 Badges de statut ultra-compacts 
 <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut Terminé" width="80" />
 <img src="https://img.shields.io/badge/Statut-En%20cours-blue?style=flat" alt="Statut En cours" width="80" />
@@ -183,4 +184,21 @@ Badges avec emojis pour plus de compacité
 <img src="https://img.shields.io/badge/Statut-⏳-orange?style=flat" alt="Statut À venir" width="50" />
 <img src="https://img.shields.io/badge/Statut-⏸️-gray?style=flat" alt="Statut En pause" width="50" />
 <img src="https://img.shields.io/badge/Statut-❌-red?style=flat" alt="Statut Abandonné" width="50" />
+-->
+
+<!--
+Version en
+Badges de statut ultra-compacts 
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat" alt="Status Completed" width="80" />
+<img src="https://img.shields.io/badge/Status-In%20progress-blue?style=flat" alt="Status In progress" width="80" />
+<img src="https://img.shields.io/badge/Status-Coming%20soon-orange?style=flat" alt="Status Coming soon" width="80" />
+<img src="https://img.shields.io/badge/Status-On%20hold-gray?style=flat" alt="Status On hold" width="80" />
+<img src="https://img.shields.io/badge/Status-Abandoned-red?style=flat" alt="Status Abandoned" width="80" />
+
+Badges avec emojis pour plus de compacité 
+<img src="https://img.shields.io/badge/Status-✅-brightgreen?style=flat" alt="Status Completed" width="50" />
+<img src="https://img.shields.io/badge/Status-🔄-blue?style=flat" alt="Status In progress" width="50" />
+<img src="https://img.shields.io/badge/Status-⏳-orange?style=flat" alt="Status Coming soon" width="50" />
+<img src="https://img.shields.io/badge/Status-⏸️-gray?style=flat" alt="Status On hold" width="50" />
+<img src="https://img.shields.io/badge/Status-❌-red?style=flat" alt="Status Abandoned" width="50" />
 -->
