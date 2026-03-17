@@ -27,7 +27,7 @@ Ici, je partage mes projets autour de l'analyse de données, la visualisation et
 ## Compétences clés 💡
   Catégorie       | Outils                                                                 |
  |-----------------|-----------------------------------------------------------------------|
- | **Langages**    | Python 🐍, SQL 🗃️, R 📊, LaTeX                                       |
+ | **Langages**    | Python, SQL, R, LaTeX                                       |
  | **Visualisation** | Power BI, Looker Studio, Matplotlib, Seaborn, GGPlot2               |
  | **Autres**      | Jupyter, Git/GitHub, Excel, DataPrep by Trifacta                     | 
 
