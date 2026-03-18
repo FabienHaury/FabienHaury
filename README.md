@@ -121,6 +121,7 @@ NB : La publication des résultats étant encouragé, tous les rapports sont ré
   - **[Billboard Hot 100 Number Ones](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Billboard%20Hot%20100%20Number%20Ones)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
   - **[Australian frogs](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Australian%20Frogs)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
   - **[What have we been watching on Netflix?](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/What%20have%20we%20been%20watching%20on%20Netflix%3F)** <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
+  - **[Agricultural Production Statistics in New Zealand](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20analysis/Agricultural%20Production%20Statistics%20in%20New%20Zealand)**<img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat" alt="Statut" width="70" />
 
 
 ### [Data Visualization](https://github.com/FabienHaury/TidyTuesday/tree/main/Data%20visualization)
